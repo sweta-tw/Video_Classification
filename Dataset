@@ -1,1 +1,5 @@
 # Dataset: UCF 50 dataset was used
+UCF50 has total 6676 videos from 50 actions.
+Videos have various time lengths (frames) and different 2d image size; the shortest is 28 frames.
+
+Link to dataset: https://www.crcv.ucf.edu/data/UCF50.php
